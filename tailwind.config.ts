@@ -12,6 +12,14 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      backgroundColor: {
+        orangePerso: "#ff5945",
+        orangePerso100: "#ff4a36",
+        whitePerso: "#edeef0",
+      },
+      outlineColor: {
+        orangePerso: "#ff5945",
+      },
     },
   },
   plugins: [],
